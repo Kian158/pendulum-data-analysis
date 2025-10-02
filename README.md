@@ -5,6 +5,7 @@ This project analyses experimental data from two simple pendulums of different l
 ## Features
 - Import and preprocessing of pendulum data
 - Linear curve fitting using a least squares method
+- Analysis of uncertainties
 - Plots to visualise the parameters extracted
 - Presentation of final value
 
