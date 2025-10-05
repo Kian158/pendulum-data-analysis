@@ -8,14 +8,17 @@ The purpose of this project was to analyse experimental data for two pendulums o
 - This is then visualised with matplotlib, and the values for g are presented
 - Uncertainties from the experiment are analysed and presented as well for context.
 
+# Results
 
-## Pendulum 1:
+### Pendulum 1:
 -The value of g is 9.976 +- 0.832 ms^-2
 
-  <img width="851" height="545" alt="pendulum-1" src="https://github.com/user-attachments/assets/5f9d3312-cb4e-4884-9a99-038f904c7ac0" />
+  <img width="851" height="345" alt="pendulum-1" src="https://github.com/user-attachments/assets/5f9d3312-cb4e-4884-9a99-038f904c7ac0" />
 
-## Pendulum 2:
-The value of g is 10.454 +- 0.664 ms^-2
+### Pendulum 2:
+- The value of g is 10.454 +- 0.664 ms^-2
 
 
-<img width="865" height="545" alt="pendulum-2" src="https://github.com/user-attachments/assets/bb1f70a4-2b3d-46e4-b195-3cc3c9a97357" />
+<img width="865" height="345" alt="pendulum-2" src="https://github.com/user-attachments/assets/bb1f70a4-2b3d-46e4-b195-3cc3c9a97357" />
+
+# Reflections
